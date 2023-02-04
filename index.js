@@ -49,7 +49,7 @@ const comprarProductos = () => {
                     precio = 0
                     cantidad = 0
                     alert("algún dato es incorrecto, por favor ingresar carne o pollo")
-                    tipoEmpanada = prompt("las variedades disponibles son: carne o pollo")
+                    tipoMilanesa = prompt("las variedades disponibles son: carne o pollo")
             }
         }else {
             alert("alguno de los datos ingresados es incorrecto, por favor ingrese tarta o milanesa")
